@@ -1,0 +1,4 @@
+C:\Users\Gabri\Desktop\GLoveBlueDLL\GLoveBlueDLL\bin\Release\GLoveBlueDLL.dll
+C:\Users\Gabri\Desktop\GLoveBlueDLL\GLoveBlueDLL\bin\Release\GLoveBlueDLL.pdb
+C:\Users\Gabri\Desktop\GLoveBlueDLL\GLoveBlueDLL\obj\Release\GLoveBlueDLL.dll
+C:\Users\Gabri\Desktop\GLoveBlueDLL\GLoveBlueDLL\obj\Release\GLoveBlueDLL.pdb

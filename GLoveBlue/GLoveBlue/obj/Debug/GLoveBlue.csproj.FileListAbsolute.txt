@@ -1,0 +1,5 @@
+C:\Users\Gabri\Desktop\GLoveBlue\GLoveBlue\bin\Debug\GLoveBlue.exe.config
+C:\Users\Gabri\Desktop\GLoveBlue\GLoveBlue\bin\Debug\GLoveBlue.exe
+C:\Users\Gabri\Desktop\GLoveBlue\GLoveBlue\bin\Debug\GLoveBlue.pdb
+C:\Users\Gabri\Desktop\GLoveBlue\GLoveBlue\obj\Debug\GLoveBlue.exe
+C:\Users\Gabri\Desktop\GLoveBlue\GLoveBlue\obj\Debug\GLoveBlue.pdb

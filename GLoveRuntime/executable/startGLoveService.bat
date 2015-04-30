@@ -1,0 +1,1 @@
+start javaw -jar -Xms1024m -Xmx1024m -Djava.library.path=C:\Users\Gabri\Desktop\TIROCINIO\GLoveRuntime\src\lib\rxtxSerial.dll C:\Users\Gabri\Desktop\TIROCINIO\GLoveRuntime\executable\GLoveService.jar

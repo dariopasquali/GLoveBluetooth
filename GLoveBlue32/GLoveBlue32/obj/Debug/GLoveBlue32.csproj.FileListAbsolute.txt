@@ -1,0 +1,7 @@
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\bin\Debug\GLoveBlue32.exe.config
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\bin\Debug\GLoveBlue32.exe
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\bin\Debug\GLoveBlue32.pdb
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\obj\Debug\GLoveBlue32.exe
+C:\Users\Gabri\Desktop\GLoveBlue32\GLoveBlue32\obj\Debug\GLoveBlue32.pdb
